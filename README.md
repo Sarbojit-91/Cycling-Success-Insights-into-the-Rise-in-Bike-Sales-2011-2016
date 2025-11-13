@@ -1,3 +1,5 @@
+<img width="1861" height="936" alt="Cycling Success Insights into Rise in Bike Sales" src="https://github.com/user-attachments/assets/c0a8c6be-cfa7-4fe3-ba9f-ee3370b2a19c" />
+
 🚴‍♂️ Cycling Success: Insights into the Rise in Bike Sales (2011-2016) 🚴‍♀️
 
 I'm thrilled to share my first-ever dashboard created in Excel, which delves into the significant increase in bike sales between 2011 and 2016. This project has been a fantastic learning journey, and I'm excited to highlight some key insights:
